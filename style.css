@@ -1,0 +1,115 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    viewport-fit: 100%;
+}
+
+header{
+    width: 100%;
+    background-color: #f3e2de;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0;
+    height: 150px;
+}
+
+.menu li{
+    display: inline-block;
+    margin: 0 20px;
+   
+}
+
+.menu li a {
+    font-size: 20px;
+    text-decoration: none;
+    color: #08748C;
+    text-transform: uppercase;
+    padding: 10px 15px;
+    border-radius: 15px;
+}
+
+.menu li a:hover{
+    background-color: rgb(100, 100, 100, 0.5);
+}
+
+
+
+.img-redes{
+    width: 30px;
+  
+}
+
+
+.img-redes-2{
+    text-align: center;
+    padding: 0px 20px;
+}
+
+
+
+
+.imgs-central{
+    display: flex;
+}
+
+.wpp-img{
+    width: 35%;
+}
+
+.img-central{
+    width: 65%;
+    height: auto;
+}
+
+.menu-lado{
+    text-align: right;
+    display: inline-block;
+}
+
+.container-logo{
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+    text-align: center;
+}
+
+
+.cabeca-curso{
+    background-color: #b1aeae;
+}
+
+.logo-cursos{
+    height: 150px;
+}
+
+.cursos{
+    padding: 150px;
+    text-align: center;
+}
+
+.imgcursos{
+    border-radius: 70px;   
+}
+
+.curso-nutricao{
+    border-radius: 70px; 
+    width: 600px;
+}
+
+.texto{
+    margin: 0px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.cursos-nutricao{
+    padding: 10px;
+    text-align: center;
+}
+
+.img-mensalidade{
+    width: 100%;
+}
